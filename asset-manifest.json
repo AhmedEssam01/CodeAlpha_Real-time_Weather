@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CodeAlpha_Real-time_Weather/static/css/main.f1e003c4.css",
+    "main.js": "/CodeAlpha_Real-time_Weather/static/js/main.9931cb95.js",
+    "index.html": "/CodeAlpha_Real-time_Weather/index.html",
+    "main.f1e003c4.css.map": "/CodeAlpha_Real-time_Weather/static/css/main.f1e003c4.css.map",
+    "main.9931cb95.js.map": "/CodeAlpha_Real-time_Weather/static/js/main.9931cb95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1e003c4.css",
+    "static/js/main.9931cb95.js"
+  ]
+}
