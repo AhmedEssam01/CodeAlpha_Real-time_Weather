@@ -1,7 +1,5 @@
-# CodeAlpha Intern
+## CodeAlpha Intern
 # Create React Weather App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ![Screenshot 2024-04-08 202242](https://github.com/AhmedEssam01/CodeAlpha_Real-time_Weather/assets/58954036/9a04e051-a980-4273-8111-753ecb1b8c02)
 
